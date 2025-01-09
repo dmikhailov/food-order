@@ -1,0 +1,60 @@
+[
+    {
+        "customer": {
+            "email": "dmikhailov777@tut.by",
+            "street": "B-Hmelnitskogo 93a/37",
+            "city": "Gomel",
+            "name": "Denis Mikhailov",
+            "postal-code": "24600"
+        },
+        "items": [
+            "m1"
+        ],
+        "id": "514.3675281756674"
+    },
+    {
+        "customer": {
+            "email": "dmikhailov777@tut.by",
+            "street": "B-Hmelnitskogo 93a/37",
+            "city": "Gomel",
+            "name": "Denis Mikhailov",
+            "postal-code": "24600"
+        },
+        "items": [
+            "m1",
+            "m11",
+            "m1"
+        ],
+        "id": "21.326472794495288"
+    },
+    {
+        "customer": {
+            "email": "dmikhailov777@tut.by",
+            "street": "B-Hmelnitskogo 93a/37",
+            "city": "Gomel",
+            "name": "Denis Mikhailov",
+            "postal-code": "24600"
+        },
+        "items": [
+            "m1",
+            "m11",
+            "m1"
+        ],
+        "id": "167.85558132852407"
+    },
+    {
+        "customer": {
+            "email": "dmikhailov777@tut.by",
+            "street": "B-Hmelnitskogo 93a/37",
+            "city": "Gomel",
+            "name": "Denis Mikhailov",
+            "postal-code": "24600"
+        },
+        "items": [
+            "m1",
+            "m11",
+            "m1"
+        ],
+        "id": "61.59962727151935"
+    }
+]
